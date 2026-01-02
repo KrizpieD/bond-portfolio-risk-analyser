@@ -8,7 +8,9 @@ notes:
   - quickly get powerful metrics gathering algorithms for them
   - generate sample datasets with realistic attributes
   - tweak algorithm to take advantage of available data (coupon dates)
-- (link to youtube videos here)
+- A couple youtube videos on bonds that I watched while coding as supplemental learning:
+  - https://www.youtube.com/watch?v=vAdn7aLHpO0
+  - https://www.youtube.com/watch?v=7d9Lz0D0uzA
 
 potential improvements:
 - bond description/title inclusion instead of just ISIN
