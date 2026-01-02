@@ -1,0 +1,19 @@
+notes:
+- leveraged my existing knowledge of springboot/PostgreSQL to set up
+- start.spring.io (Spring's official project starter)
+- designed/coded bond/portfolio controller/service/model/dao independently
+- implemented DB per my design (based off of requirement doc)
+- utilized AI to
+  - learn more about Bonds
+  - quickly get powerful metrics gathering algorithms for them
+  - generate sample datasets with realistic attributes
+  - tweak algorithm to take advantage of available data (coupon dates)
+- (link to youtube videos here)
+
+potential improvements:
+- bond description/title inclusion instead of just ISIN
+- support for other currencies
+- add swagger ui for faster prototyping/testing
+- spring cloud profiles for multi-environment deployment
+- dockerization for quick deployment
+- new tables for historical retention of metrics
