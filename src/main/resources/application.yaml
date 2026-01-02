@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: bond-portfolio-risk-analyser
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: un
+    password: pw
